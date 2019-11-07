@@ -40,7 +40,7 @@ $(document).ready(function() {
 
 // math.random(50)
 // user will click a button that adds score by random number, computer will also function off of similar code. Will switch() users randomly inbetween turns similar to dice roll.
-// 1. switch function that is random
+// 1. switch function that is random 
 // 2. add function that is random
 // 3. click function
 // 4. branching to determine score
